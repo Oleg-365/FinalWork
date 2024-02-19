@@ -136,7 +136,7 @@ ubuntu@ubuntu-VirtualBox:~$ sudo dpkg -r lftp
 животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные
 войдут: Лошади, верблюды и ослы.
 
-![](/FinalWork/img/diagram.png)
+![](/https://github.com/Oleg-365/FinalWork/blob/main/img/diagram.png)
 
 7. В подключенном MySQL репозитории создать базу данных “Друзья человека”.
 
